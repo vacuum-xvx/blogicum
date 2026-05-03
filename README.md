@@ -23,7 +23,7 @@ python manage.py runserver
 - `templates/` — HTML templates
 
 ## License
-Add a license if needed.
+MIT License. See [LICENSE](LICENSE).
 
 ---
 
@@ -52,4 +52,4 @@ python manage.py runserver
 - `templates/` — HTML-шаблоны
 
 ## Лицензия
-Добавьте лицензию при необходимости.
+MIT License. См. [LICENSE](LICENSE).
